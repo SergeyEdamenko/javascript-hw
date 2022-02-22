@@ -1,3 +1,5 @@
+//
+js 15//
 console.log('Sample JavaScript HW#1');
 
 /*
